@@ -32,12 +32,12 @@
 
 
 
-<<<<<<< HEAD
 
     //this is the fuck add
-=======
-  //this is develop add
 
->>>>>>> develop
+
+
+    //this is the fuck 2 add
+
 
 ?>
